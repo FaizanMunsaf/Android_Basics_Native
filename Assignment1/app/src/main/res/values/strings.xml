@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment#1</string>
+    <string name="m_loc">Location</string>
+    <string name="m_offer">Offer</string>
+    <string name="m_product">Product_Overview</string>
+    <string name="m_contact">Contact</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="loc"/>
+    <item
+        android:id="@+id/page_2"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:title="offer"/>
+    <item
+        android:id="@+id/page_3"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"
+        android:title="product"/>
+
+</menu>
